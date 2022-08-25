@@ -618,6 +618,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    z-index: 500;
 }
 
 .container {
@@ -925,4 +926,11 @@ h4 {
     .text_1{
         color: #000000!important;
     }
-
+.localisation{
+    width: 400px;
+    height: 300px;
+    border:0;
+}
+.address{
+    font-size: initial;
+}
